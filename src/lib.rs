@@ -1,4 +1,3 @@
-#![feature(concat_idents)]
 pub use acmd_proc_macros::*;
 
 use smash::lua2cpp::{L2CAgentBase, L2CFighterCommon, L2CFighterBase};
